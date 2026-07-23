@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Dhanush S
 
-<h3 align="center">💻 Web Developer | Full Stack Developer | PHP | JavaScript | Java</h3>
+<h3 align="center">💻 Web Developer | PHP | JavaScript | Java</h3>
 
 <p align="center">
   <a href="https://portfolio-six-beta-96.vercel.app/">
@@ -20,7 +20,7 @@
 
 I'm a passionate **Web Developer** from **Tamil Nadu, India** who enjoys building modern, responsive, and scalable web applications.
 
-- 🌱 Learning **Full Stack Development**
+- 🌱 Learning_ ****Web Development***
 - 💻 Built **6+ Web Applications**
 - 🔐 Experience with Authentication & Authorization
 - 🗄️ Strong knowledge of MySQL Database Design
@@ -42,97 +42,6 @@ I'm a passionate **Web Developer** from **Tamil Nadu, India** who enjoys buildin
 <p>
 <img src="https://skillicons.dev/icons?i=bootstrap,spring,git,github,vscode,vercel" />
 </p>
-
----
-
-# 📂 Featured Projects
-
-## 🏨 Hotel Booking System
-
-**Tech Stack**
-
-- Java
-- Spring Boot
-- JSP
-- MVC Architecture
-
-### Features
-
-- Hotel Booking
-- Dynamic JSP Pages
-- MVC Design Pattern
-- Booking Management
-
----
-
-## 🎌 Anime Database & Tracker
-
-**Tech Stack**
-
-- PHP
-- MySQL
-- JavaScript
-- HTML
-- CSS
-
-### Features
-
-- User Login
-- Session Authentication
-- Dashboard
-- Anime News
-- Genre Filtering
-- Profile Management
-
----
-
-## 🛒 E-Commerce Website
-
-**Tech Stack**
-
-- PHP
-- MySQL
-
-### Features
-
-- Product Catalog
-- Shopping Cart
-- Admin Dashboard
-- Image Upload
-- Session Authentication
-
----
-
-## 🏨 Luxury Hotel Website
-
-**Tech Stack**
-
-- HTML
-- CSS
-
-### Features
-
-- Responsive Design
-- Room Booking
-- Contact Page
-- Beautiful UI
-
----
-
-## 🎉 Event Registration System
-
-**Tech Stack**
-
-- PHP
-- MySQL
-- JavaScript
-
-### Features
-
-- Registration Form
-- Client-side Validation
-- Server-side Validation
-- Duplicate Prevention
 
 ---
 
