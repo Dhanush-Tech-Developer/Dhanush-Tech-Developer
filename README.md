@@ -1,69 +1,239 @@
-<h1 align="center">Hi 👋, I'm Dhanush S</h1>
-<h3 align="center">Aspiring Web Developer | PHP • JavaScript • MySQL</h3>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Dhanush S
+
+<h3 align="center">💻 Web Developer | Full Stack Developer | PHP | JavaScript | Java</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/dhanush-s-636356305" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://portfolio-six-beta-96.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome">
   </a>
-  <a href="mailto:sdhanush9767@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://linkedin.com/in/dhanush-s-636356305">
+    <img src="https://img.shields.io/badge/LinkedIn-Dhanush%20S-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/Dhanush-Tech-Developer">
+    <img src="https://img.shields.io/badge/GitHub-Dhanush--Tech--Developer-black?style=for-the-badge&logo=github">
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech graduate (2025) from Muthayammal College of Engineering
-- 💻 Hands-on experience building responsive, database-driven web applications
-- 🛠️ Comfortable across the full stack: front-end markup/styling, back-end logic, and database design
-- 🌱 Continuously learning and growing as a software developer
-- 🤝 Strong problem-solving, teamwork, and adaptability skills
-- 📍 Based in Rasipuram, Tamil Nadu
+I'm a passionate **Web Developer** from **Tamil Nadu, India** who enjoys building modern, responsive, and scalable web applications.
 
----
-
-### 🧰 Skills & Tools
-
-*Languages & Web*
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-*Database & Tools*
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-*Other*
-Form Validation • Application Testing • Version Control • Web Development
+- 🌱 Learning **Full Stack Development**
+- 💻 Built **6+ Web Applications**
+- 🔐 Experience with Authentication & Authorization
+- 🗄️ Strong knowledge of MySQL Database Design
+- 📱 Love creating Responsive Websites
+- 🚀 Always learning new technologies
 
 ---
 
-### 🛠️ Featured Project
+# 🚀 Tech Stack
 
-**[Event Registration Form](https://github.com/Dhanush-Tech-Developer)**
-A web-based event registration application built with PHP, HTML, CSS, and JavaScript, featuring database integration and form validation — delivered as a functional, end-to-end registration system.
+### 👨‍💻 Languages
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,java,mysql" />
+</p>
 
-### 📊 GitHub Stats
+### ⚙️ Frameworks & Tools
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dhanush-Tech-Developer&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush-Tech-Developer&layout=compact" />
+<p>
+<img src="https://skillicons.dev/icons?i=bootstrap,spring,git,github,vscode,vercel" />
 </p>
 
 ---
 
-### 📫 Reach Me
+# 📂 Featured Projects
 
-- 📧 sdhanush9767@gmail.com
-- 📱 +91 6382195147
-- 🔗 [LinkedIn](https://linkedin.com/in/dhanush-s-636356305)
-- 💻 [GitHub](https://github.com/Dhanush-Tech-Developer)
+## 🏨 Hotel Booking System
 
-<p align="center"><i>Thanks for stopping by — always open to collaborating on interesting projects!</i></p>
+**Tech Stack**
+
+- Java
+- Spring Boot
+- JSP
+- MVC Architecture
+
+### Features
+
+- Hotel Booking
+- Dynamic JSP Pages
+- MVC Design Pattern
+- Booking Management
+
+---
+
+## 🎌 Anime Database & Tracker
+
+**Tech Stack**
+
+- PHP
+- MySQL
+- JavaScript
+- HTML
+- CSS
+
+### Features
+
+- User Login
+- Session Authentication
+- Dashboard
+- Anime News
+- Genre Filtering
+- Profile Management
+
+---
+
+## 🛒 E-Commerce Website
+
+**Tech Stack**
+
+- PHP
+- MySQL
+
+### Features
+
+- Product Catalog
+- Shopping Cart
+- Admin Dashboard
+- Image Upload
+- Session Authentication
+
+---
+
+## 🏨 Luxury Hotel Website
+
+**Tech Stack**
+
+- HTML
+- CSS
+
+### Features
+
+- Responsive Design
+- Room Booking
+- Contact Page
+- Beautiful UI
+
+---
+
+## 🎉 Event Registration System
+
+**Tech Stack**
+
+- PHP
+- MySQL
+- JavaScript
+
+### Features
+
+- Registration Form
+- Client-side Validation
+- Server-side Validation
+- Duplicate Prevention
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dhanush-Tech-Developer&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush-Tech-Developer&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Dhanush-Tech-Developer&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dhanush-Tech-Developer&theme=tokyonight&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Dhanush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhanush-Tech-Developer&theme=tokyo-night)](https://github.com/Dhanush-Tech-Developer)
+
+---
+
+# 💻 Currently Learning
+
+- React.js
+- Node.js
+- Express.js
+- REST APIs
+- MongoDB
+- Advanced Java
+- Spring Boot
+
+---
+
+# 🎯 Career Goals
+
+✔ Become a Professional Full Stack Developer
+
+✔ Build Real-world Applications
+
+✔ Contribute to Open Source
+
+✔ Learn Cloud Technologies
+
+✔ Work on Scalable Software Projects
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="mailto:sdhanush9767@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://linkedin.com/in/dhanush-s-636356305">
+<img src="https://img.shields.io/badge/LinkedIn-Dhanush%20S-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://portfolio-six-beta-96.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge&logo=google-chrome">
+</a>
+
+<a href="https://github.com/Dhanush-Tech-Developer">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+---
+
+# 💬 Quote
+
+> **"Code. Learn. Build. Repeat." 🚀**
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, don't forget to ⭐ Star my repositories and Follow me on GitHub.
+
+</p>
